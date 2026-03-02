@@ -1,4 +1,4 @@
-# 🤖 BSU Generative AI Bootcamp Portfolio — APOLLO_AiX
+# 🤖 BSU- Generative AI for Data Scientist Bootcamp Portfolio — APOLLO_AiX
 **Institution:** Business Science University
 **Program:** Generative AI for Data Scientists | 8-Week Intensive Bootcamp
 **Status:** 4 of 7 Module Projects Complete | In Progress
@@ -82,5 +82,5 @@ Python | LangChain | LangGraph | OpenAI | ChromaDB | Prophet | Streamlit | SQL |
 
 ## 🔗 Connect
 - 📷 Instagram: [@apollo_aix](https://instagram.com/apollo_aix)
-- 🌐 GitHub Profile: [github.com/ASebastianAiX](https://github.com/ASebastianAiX)
+- 💼 LinkedIn: [https://www.linkedin.com/in/apollosebastian/]
 - 🌐 GitHub Profile: [github.com/ASebastianAiX](https://github.com/ASebastianAiX)
